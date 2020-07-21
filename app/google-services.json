@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796460634754",
+    "firebase_url": "https://examen1-8e743.firebaseio.com",
+    "project_id": "examen1-8e743",
+    "storage_bucket": "examen1-8e743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796460634754:android:9e9d3e2b89125e4f845a9b",
+        "android_client_info": {
+          "package_name": "com.example.chat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796460634754-l40deaqbo8vn9jfbrnp0c11t015fug4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat1",
+            "certificate_hash": "0c59860a79d8dbcbf316618fdf7b93d70e9e6b53"
+          }
+        },
+        {
+          "client_id": "796460634754-9u80dacuqpk1hl5jf87qb2mdsn7ds6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdUL7ZJJOIYwcAURgLv0ZZG8YvDPyISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796460634754-9u80dacuqpk1hl5jf87qb2mdsn7ds6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
