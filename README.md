@@ -1,58 +1,61 @@
 # ChatFIREBASE
-APP DE CHAT
+**APP DE CHAT**
+
 El proyecyto trata de una aplicacion de chat donde se puede interactuar con usuarios que hayn iniciado sesion 
 se puede realizar publicaciones,comentarios y subir imagenes
-1. Login
+
+**1. Login**
+
 Se tiene un Login iniciar sesion 
 
 
 ![Login](https://user-images.githubusercontent.com/43852960/88690331-29fe0400-d0c1-11ea-8cb7-42cb45fa377b.PNG)
 
-2.Ventana Registrate
+**2.Ventana Registrate**
 Existe una ventana para que el usuario pueda registrarse, aqui validamos los campos
 
 ![Registrate](https://user-images.githubusercontent.com/43852960/88690451-4b5ef000-d0c1-11ea-970b-200da5a3daba.PNG)
 
-3. Home
+**3. Home
 Ingresara a una entana de home donde se veran publicaciones realizadas,likes, comentarios y quien lo hizo
 
 ![vistatacell3](https://user-images.githubusercontent.com/43852960/88690775-a1339800-d0c1-11ea-80cc-370895e9a54f.PNG)
 
-4.Chats
+**4.Chats
 
 Se vera la lista de chats que tenemos
 
 ![listachatas](https://user-images.githubusercontent.com/43852960/88690242-0fc42600-d0c1-11ea-8fdd-2810b74b83de.PNG)
 
-5.Ventana chats
+**5.Ventana chats
 
 La aplicacion interactua entre celulares
 
 ![muestra opciones](https://user-images.githubusercontent.com/43852960/88690342-2ec2b800-d0c1-11ea-85cb-ee1d558f08eb.PNG)
 
-6. Perfil
+**6. Perfil
 
 Muestra un perfil para usuarios y su informacion
 
 ![perfil](https://user-images.githubusercontent.com/43852960/88690410-426e1e80-d0c1-11ea-8d36-665ab3186ac7.PNG)
 
-APIS QUE SE USARON EN EL PROYECTO
+**APIS QUE SE USARON EN EL PROYECTO
 
 Se usaron algunas apis apartir de la 22, para un celular y tres tablets
 
-Para el cel 1
+**Para el cel 1
 
 ![apicell1](https://user-images.githubusercontent.com/43852960/88689970-c1168c00-d0c0-11ea-8d09-cf6e84af46a9.PNG)
 
-Tablet 1
+**Tablet 1
 
 ![apitable1](https://user-images.githubusercontent.com/43852960/88690003-ce337b00-d0c0-11ea-860f-d080c489eeab.PNG)
 
-Tablet 2
+**Tablet 2
 
 ![apitable2](https://user-images.githubusercontent.com/43852960/88690097-eacfb300-d0c0-11ea-9d1f-537be342c3c0.PNG)
 
-Tablet 3
+**Tablet 3
 
 ![apitablet3](https://user-images.githubusercontent.com/43852960/88690197-02a73700-d0c1-11ea-9415-9e0b99a615d8.PNG)
 
@@ -72,19 +75,19 @@ Para el celular tres se uso un celular fisico J1
 
 ![vistatacell3](https://user-images.githubusercontent.com/43852960/88690775-a1339800-d0c1-11ea-80cc-370895e9a54f.PNG)
 
-Tablet1
+**Tablet1
 
 Se uso una nexus 7
 
 ![vistatablet1](https://user-images.githubusercontent.com/43852960/88690516-5dd92980-d0c1-11ea-9566-bad17c8ac7ff.PNG)
 
-Tablet 2
+**Tablet 2
 
 Se uno una Amazon Fire8
 
 ![vistatablet2](https://user-images.githubusercontent.com/43852960/88690551-66316480-d0c1-11ea-92d3-e200f03b51ea.PNG)
 
-Tablet 3
+**Tablet 3
 
 SE uso una Custom Tablet 3
 
@@ -95,7 +98,7 @@ MAS IMPORTANTE DEL CODIGO
 
 
 
-MANUAL DE USO 
+##**MANUAL DE USO 
 
 Para uso de la aplicacion debera registrarse con un usuario de GOOGLE o un usuario normal
 
@@ -120,7 +123,7 @@ Se podra acceder a la ventana de chat para empezar a enviar mensajes
 
 ![chat](https://user-images.githubusercontent.com/43852960/88690302-20749c00-d0c1-11ea-9224-cc472fd43618.PNG)
 
-Asi podra usar la Aplicacio.
+Asi podra usar la Aplicacion.
 
 
 
