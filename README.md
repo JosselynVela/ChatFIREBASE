@@ -106,7 +106,19 @@ MAS IMPORTANTE DEL CODIGO
 
 
 
-**MANUAL DE USO **
+**MANUAL DE USO**
+Este metodo sera el que ayude a realizar el inicio en sesion desde google
+
+![parte1](https://user-images.githubusercontent.com/43852960/88711283-9424a200-d0dd-11ea-80c7-ff294e08b4e5.PNG)
+
+A esta parte se la considero importante ya que es la clave que nos dara firebase para la mensajeria
+
+![parte2](https://user-images.githubusercontent.com/43852960/88711431-cafab800-d0dd-11ea-88f4-2013a7212852.PNG)
+
+Esta clase nos ayudara a crear metodos que seran llamados desde otras clases sirve para que el codigo no se vea demaciado extenso
+
+![parte3](https://user-images.githubusercontent.com/43852960/88711568-f9789300-d0dd-11ea-8111-a5ae1be255f9.PNG)
+
 
 Para uso de la aplicacion debera registrarse con un usuario de GOOGLE o un usuario normal
 
@@ -132,6 +144,10 @@ Se podra acceder a la ventana de chat para empezar a enviar mensajes
 ![chat](https://user-images.githubusercontent.com/43852960/88690302-20749c00-d0c1-11ea-9224-cc472fd43618.PNG)
 
 Asi podra usar la Aplicacion.
+
+**Referencias**
+
+https://www.youtube.com/watch?v=4TxJHYTVDKE&t=250s
 
 
 
