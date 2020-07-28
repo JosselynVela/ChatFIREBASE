@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "796460634754",
-    "firebase_url": "https://examen1-8e743.firebaseio.com",
-    "project_id": "examen1-8e743",
-    "storage_bucket": "examen1-8e743.appspot.com"
+    "project_number": "991256766845",
+    "firebase_url": "https://socialmediogamer.firebaseio.com",
+    "project_id": "socialmediogamer",
+    "storage_bucket": "socialmediogamer.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:796460634754:android:9e9d3e2b89125e4f845a9b",
+        "mobilesdk_app_id": "1:991256766845:android:54c6bf3f2642609c138414",
         "android_client_info": {
-          "package_name": "com.example.chat1"
+          "package_name": "com.optic.socialmediagamer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "796460634754-l40deaqbo8vn9jfbrnp0c11t015fug4c.apps.googleusercontent.com",
+          "client_id": "991256766845-7m84cl411d1uv1oam8dpcsgm6rjdcpm9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.chat1",
-            "certificate_hash": "0c59860a79d8dbcbf316618fdf7b93d70e9e6b53"
+            "package_name": "com.optic.socialmediagamer",
+            "certificate_hash": "87d6ea185530ddd6eadb0e7cac0f4801242a787d"
           }
         },
         {
-          "client_id": "796460634754-9u80dacuqpk1hl5jf87qb2mdsn7ds6um.apps.googleusercontent.com",
+          "client_id": "991256766845-sjsrpepb84nv6oakv9mle4lb0qfanmpn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAOdUL7ZJJOIYwcAURgLv0ZZG8YvDPyISM"
+          "current_key": "AIzaSyCFuGSJTgJ0syKEre0Rd2wQfxdRShCeLsU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "796460634754-9u80dacuqpk1hl5jf87qb2mdsn7ds6um.apps.googleusercontent.com",
+              "client_id": "991256766845-sjsrpepb84nv6oakv9mle4lb0qfanmpn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
