@@ -72,5 +72,59 @@ Para el celular tres se uso un celular fisico J1
 
 ![vistatacell3](https://user-images.githubusercontent.com/43852960/88690775-a1339800-d0c1-11ea-80cc-370895e9a54f.PNG)
 
+Tablet1
+
+Se uso una nexus 7
+
+![vistatablet1](https://user-images.githubusercontent.com/43852960/88690516-5dd92980-d0c1-11ea-9566-bad17c8ac7ff.PNG)
+
+Tablet 2
+
+Se uno una Amazon Fire8
+
+![vistatablet2](https://user-images.githubusercontent.com/43852960/88690551-66316480-d0c1-11ea-92d3-e200f03b51ea.PNG)
+
+Tablet 3
+
+SE uso una Custom Tablet 3
+
+![vistatablet3](https://user-images.githubusercontent.com/43852960/88690607-721d2680-d0c1-11ea-8b73-dcb493efe67b.PNG)
+
+MAS IMPORTANTE DEL CODIGO 
+
+
+
+
+MANUAL DE USO 
+
+Para uso de la aplicacion debera registrarse con un usuario de GOOGLE o un usuario normal
+
+![manual1](https://user-images.githubusercontent.com/43852960/88695158-21103100-d0c7-11ea-92b5-cb26deaa7d06.PNG)
+
+
+Puede realizar publicaciones en el boton del + en la vista de home 
+
+![manual2](https://user-images.githubusercontent.com/43852960/88695518-a4ca1d80-d0c7-11ea-8866-37efd59edc9a.PNG)
+
+
+podra Subir imagenes y desripcion de lo que vaya a publicar
+
+
+![manual3](https://user-images.githubusercontent.com/43852960/88695655-d04d0800-d0c7-11ea-8130-e9aee2508f79.PNG)
+
+Al accerder al perfil de la persona que hizo una publicacion tendra la opcion de mandar mensaje 
+
+![manual4](https://user-images.githubusercontent.com/43852960/88697552-5c602f00-d0ca-11ea-95a1-8dad03b22960.PNG)
+
+Se podra acceder a la ventana de chat para empezar a enviar mensajes 
+
+![chat](https://user-images.githubusercontent.com/43852960/88690302-20749c00-d0c1-11ea-9224-cc472fd43618.PNG)
+
+Asi podra usar la Aplicacio.
+
+
+
+
+
 
 
